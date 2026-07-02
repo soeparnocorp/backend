@@ -142,7 +142,7 @@ export class ConversationDurableObject extends DurableObject<Env> {
                 });
 
                 // Generate the public URL
-                const assetUrl = `https://pub-b8600d78cd7444e0b66bf753906f5370.r2.dev/${uniqueFilename}`;
+                const assetUrl = `https://pub-ad7376f5ad43494a86311f9b39971d8c.r2.dev/${uniqueFilename}`;
 
                 return c.json({ 
                     success: true, 
