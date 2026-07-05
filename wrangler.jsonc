@@ -32,10 +32,5 @@
 	],
 	"observability": {
 		"enabled": true
-	},
-	"vars": {
-		"R2_ACCOUNT_ID": "53d61c09062b1ca11788fa763f79313a",
-		"R2_BUCKET_NAME": "message-assets",
-		"R2_ENDPOINT": "https://53d61c09062b1ca11788fa763f79313a.r2.cloudflarestorage.com"
 	}
 }
