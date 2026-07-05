@@ -24,12 +24,6 @@
 			}
 		]
 	},
-	"r2_buckets": [
-		{
-			"binding": "MESSAGE_ASSETS",
-			"bucket_name": "message-assets"
-		}
-	],
 	"observability": {
 		"enabled": true
 	}
