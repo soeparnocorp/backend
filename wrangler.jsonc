@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "back-end",
+	"name": "backend",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-03",
 	"migrations": [
